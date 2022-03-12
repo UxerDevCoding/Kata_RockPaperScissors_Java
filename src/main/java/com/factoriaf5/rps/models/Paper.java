@@ -1,7 +1,8 @@
 package com.factoriaf5.rps.models;
 
+import com.factoriaf5.rps.designPattern.Interface;
 
-public class Paper {
+public class Paper implements Interface {
 
     public String name = "Paper";
 
