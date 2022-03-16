@@ -1,7 +1,5 @@
 package com.factoriaf5.rps.application;
 
-
-
 import static org.junit.Assert.assertEquals;
 
 import com.factoriaf5.rps.models.Paper;

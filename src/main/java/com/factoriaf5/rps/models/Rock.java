@@ -1,8 +1,6 @@
 package com.factoriaf5.rps.models;
 
-import com.factoriaf5.rps.designPattern.Interface;
-
-public class Rock implements Interface {
+public class Rock  {
 
     public String name = "Rock";
 

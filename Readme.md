@@ -8,6 +8,10 @@ Create a Rock Paper Scissors game, which can be played with a number of rule set
 
 - https://agilekatas.co.uk/katas/RockPaperScissors-Kata
 
-### Extra
+## Requiered
+- JDK 11
+- JUnit
+- Maven
 
-Try implements Factory Method design pattern
+## Author
+Omar Hevia

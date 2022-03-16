@@ -1,8 +1,6 @@
 package com.factoriaf5.rps.models;
 
-import com.factoriaf5.rps.designPattern.Interface;
-
-public class Scissors implements Interface {
+public class Scissors {
 
     public String name = "Scissors";
 
